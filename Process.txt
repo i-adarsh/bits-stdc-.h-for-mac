@@ -1,0 +1,7 @@
+Since, /usr directory is hidden by default on Mac OSX.
+
+Open Finder.
+Click Go on menu bar then click Go to folder or Press Command+Shift+G directly.
+Enter the path /usr/local/include
+Now proceed as mentioned above.
+(UPDATE: For latest OS X you need to make folder include inside local and make bits folder inside include folder and then copy paste the code inside bits folder.)
